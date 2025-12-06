@@ -1,95 +1,56 @@
-Berikut **template README.md** yang sudah **disederhanakan**, **sesuai ketentuan tugas**, **siap kamu edit**, dan tetap terlihat profesional.
-Template ini hanya memuat elemen yang **diminta dosen**, tapi tetap rapi dan informatif.
-
----
-
-# 🎌 *Judul Aplikasi Anda (Anime Verse / Sesuaikan)*
+# 🎌 *ANIME VERSE*
 
 ## 👤 Identitas Mahasiswa
 
-| Keterangan         | Isi                |
-| ------------------ | ------------------ |
-| **Nama**           | *Isi Nama Anda*    |
-| **NIM**            | *Isi NIM Anda*     |
-| **Program Studi**  | Ilmu Komputer      |
-| **Mata Kuliah**    | Pemrograman Mobile |
-| **Dosen Pengampu** | *Isi Nama Dosen*   |
+| ------------------ | ----------------------- |
+| **Nama**           | *Alfathan Bagas Kurnia* |
+| **NIM**            | *231401012*             |
+| **Program Studi**  | Ilmu Komputer           |
+| **Lab**            | Pemrograman Mobile 5    |
 
 ---
 
 ## 📘 Project Description
 
-Tuliskan deskripsi singkat mengenai aplikasi.
-
-**Contoh (silakan ganti/ubah):**
-
 Aplikasi **Anime Verse** adalah aplikasi mobile berbasis Flutter yang digunakan untuk menelusuri anime, melihat detail anime, dan menyimpan daftar favorit pengguna. Aplikasi ini dikembangkan sebagai bagian dari tugas mata kuliah Pemrograman Mobile dan mengimplementasikan konsep dasar Flutter, pemanggilan API, Firebase Authentication, dan penyimpanan data menggunakan Firestore.
 
-**Minimal memuat:**
-
-* Tujuan aplikasi
-* Teknologi yang digunakan (cth: Flutter, Dart, Firebase, API Jikan)
-* Fitur utama aplikasi
-
-**Template isi:**
 
 * 🚀 **Tujuan Aplikasi:** *Tuliskan tujuan aplikasi di sini*
 * 🛠 **Teknologi yang digunakan:**
 
-  * Flutter vX.X.X
-  * Dart vX.X.X
-  * API yang digunakan (jika ada)
-  * Firebase Authentication / Firestore (jika digunakan)
+  * Flutter v3.38.4
+  * Dart v3.10.3
+  * VS Code with Flutter extensions
+  * Firebase Authentication & Firestore
+  * Java JDK: 17 (for Android builds)
+
 * ✨ **Fitur Utama:**
 
-  * *Fitur 1*
-  * *Fitur 2*
-  * *Fitur 3*
+  * Autentikasi Pengguna
+  * Eksplorasi Anime
+  * Favorit Anime
+  * Profil Pengguna
 
 ---
 
 ## 📱 Screenshots Aplikasi
 
-> **Wajib:** semua screen aplikasi harus dimasukkan.
-
-Gunakan template berikut (bisa tambahkan sesuai kebutuhan):
-
-### 🖼️ Tampilan Aplikasi
-
-| Screen              | Gambar                    |
-| ------------------- | ------------------------- |
-| **Splash Screen**   | ![Splash](link_gambar)    |
-| **Login / Sign In** | ![signin](link_gambar)    |
-| **Home Page**       | ![home](link_gambar)      |
-| **Detail Page**     | ![detail](link_gambar)    |
-| **Favorites Page**  | ![favorites](link_gambar) |
-| **Profile Page**    | ![profile](link_gambar)   |
-
-> Ganti `link_gambar` dengan link gambar dari GitHub atau upload local path.
+| Screen              | Gambar                                                           |
+| ------------------- | ---------------------------------------------------------------- |
+| **Splash Screen**   | ![Splash](assets\images\screenshots\Detail_Page_Screen.png)      |
+| **Sign In**         | ![signin](assets\images\screenshots\Favorites_Page_Screen.png)   |
+| **Sign Up**         | ![signup](assets\images\screenshots\Home_Page_Screen.png)        |
+| **Home Page**       | ![home](assets\images\screenshots\Profile_Page_Screen.png)       |
+| **Detail Page**     | ![detail](assets\images\screenshots\Sign_In_Screen.png)          |
+| **Favorites Page**  | ![favorites](assets\images\screenshots\Sign_Up_Screen)           |
+| **Profile Page**    | ![profile](assets\images\screenshots\Splash_Screen.png)          |
 
 ---
 
 ## 🎥 Link Demo Aplikasi
 
-Sertakan minimal *satu* dari berikut:
-
-* Link video YouTube
-* Link Google Drive
-* Link demo hasil screen recording
-* Link versi release APK
-
-**Template:**
-
-```
-Demo Aplikasi:
-https://link-demo-anda.com
-```
-
----
-
-## (Opsional) Informasi Tambahan
-
-> Jika ingin README lebih informatif (disarankan dosen), tambahkan:
+Link Drive:
+https://drive.google.com/drive/folders/1xD-nfx3kolU9hByAKWcdXFUABizsrXiI?usp=sharing
 
 ### 🛠 Cara Menjalankan Aplikasi
 
@@ -106,25 +67,7 @@ flutter build apk --release
 
 ---
 
-## 📄 Lisensi (opsional)
-
-Jika ingin menambahkan lisensi open source:
-
-```
-MIT License
-Copyright (c) 2025
-```
-
----
-
 ## 📞 Kontak (opsional)
 
-* Email: *email_anda*
-* GitHub: *username*
-
----
-
-# ✅ Template Siap Pakai
-
-Kamu tinggal copy–paste, lalu edit bagian yang diminta.
-Kalau mau, saya bisa **langsung bantu mengisi semuanya** berdasarkan proyek Anime Verse kamu.
+* Email: *fatan250217@gmail.com*
+* GitHub: *FathanBagas07*
