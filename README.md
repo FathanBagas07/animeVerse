@@ -2,6 +2,7 @@
 
 ## 👤 Identitas Mahasiswa
 
+| Keterangan         | Isi                     |
 | ------------------ | ----------------------- |
 | **Nama**           | *Alfathan Bagas Kurnia* |
 | **NIM**            | *231401012*             |
