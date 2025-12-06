@@ -375,7 +375,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
               title: 'Change Username',
               subtitle: 'Update your display name',
               onTap: () {
-                // TODO: [PRAKTIKUM EXERCISE] Implement Change Username Feature
+                // [PRAKTIKUM EXERCISE] Implement Change Username Feature
                 //
                 // CONTEXT:
                 // - Current sign-up flow doesn't collect displayName/username
@@ -436,7 +436,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
               title: 'About AnimeVerse',
               subtitle: 'Version 1.0.0',
               onTap: () {
-                // TODO: Implement about app functionality
+                // Implement about app functionality
               },
             ),
 

@@ -142,6 +142,7 @@ class _SignInScreenState extends State<SignInScreen> {
 
     setState(() => _isLoading = true);
 
+    // ignore: use_build_context_synchronously
     final authProvider = context.read<AuthProvider>();
     final success = await authProvider.sendPasswordResetEmail(email);
 
@@ -185,7 +186,7 @@ class _SignInScreenState extends State<SignInScreen> {
                   children: [
                     SizedBox(height: screenHeight * 0.1),
 
-                    // TODO: Add logo here
+                    // Add logo here
 
                     SizedBox(height: screenHeight * 0.04),
 

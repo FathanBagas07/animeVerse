@@ -51,3 +51,22 @@ flutter:
           weight: 700
         - asset: assets/fonts/Urbanist-ExtraBold.ttf
           weight: 800
+          
+# App Icon Configuration
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/images/app_icon.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/app_icon.png"
+
+# Splash Screen Configuration
+flutter_native_splash:
+  android: true
+  ios: false
+  web: false
+  color: "#FFFFFF"
+  image: assets/images/splash_screen_icon.png
+  android_12:
+    color: "#FFFFFF"
+    image: assets/images/splash_screen_icon.png

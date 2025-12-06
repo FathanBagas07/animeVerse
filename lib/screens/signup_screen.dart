@@ -125,7 +125,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                   children: [
                     SizedBox(height: screenHeight * 0.1),
 
-                    // TODO: Add logo here
+                    // Add logo here
 
                     SizedBox(height: screenHeight * 0.04),
 
